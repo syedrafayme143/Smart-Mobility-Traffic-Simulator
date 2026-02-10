@@ -2,3 +2,4 @@ traci
 sumolib
 notebook
 numpy
+matplotlib
