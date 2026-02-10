@@ -1,0 +1,249 @@
+{
+  "simulation_info": {
+    "config_file": "simulation/sumo_config.sumocfg",
+    "total_steps": 204,
+    "timestamp": "2026-02-10T22:59:29.959532"
+  },
+  "edge_metrics": {
+    "-E13": {
+      "avg_vehicles": 1.696078431372549,
+      "max_vehicles": 19,
+      "avg_speed": 13.710597115174107,
+      "avg_occupancy": 0.012022513898476197
+    },
+    "-E14": {
+      "avg_vehicles": 1.5980392156862746,
+      "max_vehicles": 10,
+      "avg_speed": 13.709242052195874,
+      "avg_occupancy": 0.011460115786542291
+    },
+    "-E16": {
+      "avg_vehicles": 1.6519607843137254,
+      "max_vehicles": 19,
+      "avg_speed": 13.690534683256942,
+      "avg_occupancy": 0.012158092196238243
+    },
+    "-E17": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "-E18": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "-E19": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "-E20": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "-E21": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "-E23": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "-E24": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "-E25": {
+      "avg_vehicles": 1.7254901960784315,
+      "max_vehicles": 10,
+      "avg_speed": 13.647092526801677,
+      "avg_occupancy": 0.012166390501228296
+    },
+    "-E26": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    ":J0_0": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    ":J0_3": {
+      "avg_vehicles": 0.2696078431372549,
+      "max_vehicles": 6,
+      "avg_speed": 13.512841496851836,
+      "avg_occupancy": 0.015016639110643725
+    },
+    ":J0_6": {
+      "avg_vehicles": 0.22549019607843138,
+      "max_vehicles": 2,
+      "avg_speed": 13.768618854014962,
+      "avg_occupancy": 0.012650472983609502
+    },
+    ":J0_9": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    ":J1_0": {
+      "avg_vehicles": 0.19607843137254902,
+      "max_vehicles": 3,
+      "avg_speed": 13.822634070552146,
+      "avg_occupancy": 0.012117438217899278
+    },
+    ":J1_3": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    ":J1_6": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    ":J1_9": {
+      "avg_vehicles": 0.27941176470588236,
+      "max_vehicles": 6,
+      "avg_speed": 13.447413053457959,
+      "avg_occupancy": 0.016353498258783773
+    },
+    ":J5_0": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    ":J5_3": {
+      "avg_vehicles": 0.20098039215686275,
+      "max_vehicles": 4,
+      "avg_speed": 13.817441614089264,
+      "avg_occupancy": 0.012263619603768865
+    },
+    ":J5_6": {
+      "avg_vehicles": 0.1715686274509804,
+      "max_vehicles": 2,
+      "avg_speed": 13.829379227100947,
+      "avg_occupancy": 0.011573111441359557
+    },
+    ":J5_9": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    ":J6_0": {
+      "avg_vehicles": 0.25980392156862747,
+      "max_vehicles": 6,
+      "avg_speed": 13.549988579387241,
+      "avg_occupancy": 0.01477070575798957
+    },
+    ":J6_3": {
+      "avg_vehicles": 0.2647058823529412,
+      "max_vehicles": 6,
+      "avg_speed": 13.506224563502952,
+      "avg_occupancy": 0.01649896288703983
+    },
+    ":J6_6": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    ":J6_9": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "E13": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "E14": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "E16": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "E17": {
+      "avg_vehicles": 1.7303921568627452,
+      "max_vehicles": 10,
+      "avg_speed": 13.576493660269312,
+      "avg_occupancy": 0.011992692229373901
+    },
+    "E18": {
+      "avg_vehicles": 2.6127450980392157,
+      "max_vehicles": 18,
+      "avg_speed": 12.71223166946439,
+      "avg_occupancy": 0.0194991882466983
+    },
+    "E19": {
+      "avg_vehicles": 2.014705882352941,
+      "max_vehicles": 10,
+      "avg_speed": 12.222908820720798,
+      "avg_occupancy": 0.014432873178793902
+    },
+    "E20": {
+      "avg_vehicles": 2.8284313725490198,
+      "max_vehicles": 18,
+      "avg_speed": 11.826857185180083,
+      "avg_occupancy": 0.021220774012884868
+    },
+    "E21": {
+      "avg_vehicles": 1.7352941176470589,
+      "max_vehicles": 18,
+      "avg_speed": 13.639867734490755,
+      "avg_occupancy": 0.012042281230182585
+    },
+    "E23": {
+      "avg_vehicles": 4.553921568627451,
+      "max_vehicles": 19,
+      "avg_speed": 11.38611078034863,
+      "avg_occupancy": 0.03239273726368489
+    },
+    "E24": {
+      "avg_vehicles": 1.6519607843137254,
+      "max_vehicles": 18,
+      "avg_speed": 13.690245421189722,
+      "avg_occupancy": 0.011575846630814613
+    },
+    "E25": {
+      "avg_vehicles": 0.0,
+      "max_vehicles": 0,
+      "avg_speed": 13.89,
+      "avg_occupancy": 0.0
+    },
+    "E26": {
+      "avg_vehicles": 4.5245098039215685,
+      "max_vehicles": 12,
+      "avg_speed": 9.482372130947459,
+      "avg_occupancy": 0.03458635254497255
+    }
+  }
+}
