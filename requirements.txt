@@ -1,0 +1,4 @@
+traci
+sumolib
+notebook
+numpy
